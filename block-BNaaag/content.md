@@ -1,0 +1,1 @@
+Reading contents from a file.
